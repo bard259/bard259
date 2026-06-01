@@ -8,19 +8,19 @@ Quantitative engineer and researcher working at the intersection of machine lear
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| [casual-trading](#casual-trading) | AI-driven equity signal generation + automated P&L evaluation | Python, OpenAI, Supabase, GitHub Actions | Active |
-| [broker-agent](#broker-agent) | Rule-based stock consultant combining technical signals with Reddit sentiment | Python, yfinance, VADER, PRAW | Active |
-| [causal-impact](#causal-impact) | Causal inference toolkit for measuring the effect of strategy launches | Python, CausalImpact | Active |
-| [nba-fantasy](#nba-fantasy) | Linear programming optimizer for salary-cap fantasy basketball drafts | Python, PuLP, pandas | Active |
-| [mindmap](#mindmap) | LLM-powered interactive knowledge mind-map for any topic | Node.js, React Native, Expo, OpenAI | Active |
+| [casual-trading](projects/casual-trading.md) | AI-driven equity signal generation + automated P&L evaluation | Python, OpenAI, Supabase, GitHub Actions | Active |
+| [broker-agent](projects/broker-agent.md) | Rule-based stock consultant combining technical signals with Reddit sentiment | Python, yfinance, VADER, PRAW | Active |
+| [causal-impact](projects/causal-impact.md) | Causal inference toolkit for measuring the effect of strategy launches | Python, CausalImpact | Active |
+| [nba-fantasy](projects/nba-fantasy.md) | Linear programming optimizer for salary-cap fantasy basketball drafts | Python, PuLP, pandas | Active |
+| [mindmap](projects/mindmap.md) | LLM-powered interactive knowledge mind-map for any topic | Node.js, React Native, Expo, OpenAI | Active |
 
 ## Research & Academic Work
 
 | Project | Description | Methods |
 |---------|-------------|---------|
-| [Robust-Mendelian-Randomization](#robust-mendelian-randomization) | Robust confidence intervals for MR-SPI causal inference | R, Robust Optimization, Two-Sample IV |
-| [BlueBike-Project](#bluebike-project) | Optimal bike-share rebalancing under demand uncertainty | Adaptive Robust Optimization |
-| [Chess-RL](#chess-rl) | Reinforcement learning agent for chess | Python, RL |
+| [Robust-Mendelian-Randomization](projects/robust-mendelian-randomization.md) | Robust confidence intervals for MR-SPI causal inference | R, Robust Optimization, Two-Sample IV |
+| [BlueBike-Project](projects/bluebike-project.md) | Optimal bike-share rebalancing under demand uncertainty | Adaptive Robust Optimization |
+| [Chess-RL](projects/chess-rl.md) | Reinforcement learning agent for chess | Python, RL |
 | [TF-Capstone](#tf-capstone) | Graduate capstone project | Quantitative Methods |
 
 ---
